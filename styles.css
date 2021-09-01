@@ -1,0 +1,8 @@
+    body {
+        color: rgba(0, 0, 0, .5);
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: .1em;
+        top: 15%;
+        background: linear-gradient( to left, #ffff0f, #ff0000);
+    }
